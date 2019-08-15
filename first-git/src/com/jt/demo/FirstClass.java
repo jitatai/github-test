@@ -8,4 +8,9 @@ public class FirstClass {
         System.out.println("first main");
         System.out.println("first main");
     }
+
+    public void  test(){
+        int i = 1;
+        i = 10;
+    }
 }
